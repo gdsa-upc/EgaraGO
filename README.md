@@ -1,0 +1,2 @@
+# EgaraGO
+Projecte GDSA
