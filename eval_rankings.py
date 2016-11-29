@@ -118,7 +118,7 @@ def AveragePrecision(relist):
     # For all elements in the hit & miss list
     for k in range(len(relist)):
         
-        # If the value is 1
+        # If the _ue is 1
         if relist[k] == 1:
             
             # We add 1 to the number of correct instances
@@ -151,7 +151,7 @@ def eval_rankings(params):
     annotation_val, annotation_train = read_annotation(params)
     
     # For all generated rankings
-    for val_id in os.listdir(os.path.join(params['root'],params['database'],params['split'],'result'))):
+    for val_id in os.listdir(os.path.join(params['root'],params['database'],params['split'],'result')):
         
         query_class, ranking = load_ranking(params,val_id,annotation_val)
         

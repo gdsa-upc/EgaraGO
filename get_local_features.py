@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # In[ ]:
@@ -37,4 +36,3 @@ def get_local_features(params,image):
 
     # Resize and return new image
 #return cv2.resize(im,dim)
-

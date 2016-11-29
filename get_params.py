@@ -15,7 +15,7 @@ def get_params():
     params = {}
 
     # Source data
-    params['root'] = '\Users\Gerard\Documents\Universidad\TercerCurso\GDSA\Proyecto\codigo'
+    params['root'] = 'C:\Users\sergi\Desktop\Nueva carpeta'
     params['database'] = 'TerrassaBuildings900'
 
     # To generate
@@ -26,7 +26,7 @@ def get_params():
     params['classification_dir'] = 'classification'
 
     # Parameters
-    params['split'] = 'val'
+    params['split'] = 'train'
     params['descriptor_size'] = 1000
     params['descriptor_type'] = 'SIFT'
     params['max_size'] = 800
