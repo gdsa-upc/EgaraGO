@@ -10,7 +10,7 @@ import numpy as np
 def get_local_features(params,image):
     img = cv2.imread(image)
     #Fem un resize de la imatge
-    img = resize_image(params,img) #Si volem un tamany específic ho fem aixi: img = cv2.resize(img, (250, 250)) 
+    img = cv2.resize(img, (250, 250)) 
     
     # load the image we are going to extract descriptors from and convert
     # it to grayscale
@@ -25,16 +25,16 @@ def get_local_features(params,image):
     kp,des= extractor.compute(gray,kp,params['descriptor_size'])
     return des
 
-def resize_image(params,im):
+#def resize_image(params,im):
     # Get image dimensions
-    height, width = im.shape[:2]
+ #   height, width = im.shape[:2]
 
     # If the image width is smaller than the proposed small dimension, keep the original size !
-    resize_dim = min(params['max_size'],width)
+  #  resize_dim = min(params['max_size'],width)
 
     # We don't want to lose aspect ratio:
-    dim = (resize_dim, height * resize_dim/width)
+   # dim = (resize_dim, height * resize_dim/width)
 
     # Resize and return new image
-return cv2.resize(im,dim)
+#return cv2.resize(im,dim)
 
