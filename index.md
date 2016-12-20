@@ -8,7 +8,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
 
 ***
 
-* [Informe Setmanal 3](https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit)
+* 
 * [Informe Setmanal 4] (https://docs.google.com/presentation/d/1FElw3wB09kewor5mdKbvPPm-bbtXHXuGJ7aZfIRPLeA/edit#slide=id.g19dadb106c_0_59)
 * [Informe Setmanal 5] (https://docs.google.com/presentation/d/1fBsOT1efNTmQegLOExFy2-xjiymivh_vvsCnBiclJPw/edit#slide=id.g1a029ee159_2_22)
 
@@ -24,7 +24,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
               <td>Demo ( Notebook )</td>
            </tr>
            <tr>
-              <td>Sessió 3</td>
+              <td>[Informe Setmanal 3](https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit)</td>
               <td> Feature extractor</td>
           </tr>
           <tr>
