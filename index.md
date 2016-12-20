@@ -18,6 +18,25 @@ Aquí trobareu informació sobre el seu desenvolupament.
 * SERGI NAVARRO 
 * ADRIÀ MÁRQUEZ
 
+  <table border="2px"> 
+           <tr>
+              <td>Celda 1</td>
+              <td>Celda 2</td>
+              <td>Celda 3</td>
+          </tr>
+          <tr>
+              <td>Celda 4</td>
+              <td>Celda 5</td>
+              <td>Celda 6</td>
+          </tr>
+        </table>
+    </body>
+</html>
+
+
+
+
+
 
 ### ** Mean Average Precision 0.24622898595 **
 * mercat_independencia <b>0.147625794367</b>
