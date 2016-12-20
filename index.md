@@ -24,7 +24,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
               <td>Demo ( Notebook )</td>
            </tr>
            <tr>
-              <td>[Informe Setmanal 3](https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit)</td>
+              <td> <a href="https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 3</a> </td>
               <td> Feature extractor</td>
           </tr>
           <tr>
