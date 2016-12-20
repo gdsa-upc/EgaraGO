@@ -20,32 +20,32 @@ Aquí trobareu informació sobre el seu desenvolupament.
 
   <table border="2px"> 
            <tr>
-              <td>Celda 1</td>
-              <td>Celda 2</td>
+              <td>Progress Report (Slides)</td>
+              <td>Demo ( Notebook )</td>
            </tr>
            <tr>
-              <td>Celda 3</td>
-              <td>Celda 4</td>
+              <td>Sessió 3</td>
+              <td> Feature extractor</td>
           </tr>
           <tr>
-              <td>Celda 5</td>
-              <td>Celda 6</td>
+              <td>Sessió 4</td>
+              <td>Random system</td>
           </tr>
           <tr>
-              <td>Celda 7</td>
-              <td>Celda 8</td>
+              <td>Sessió 5</td>
+              <td>First search engine</td>
           </tr>
           <tr>
-              <td>Celda 9</td>
-              <td>Celda 10</td>
+              <td>Sessió 6</td>
+              <td>[Search] [Classification]</td>
           </tr>
            <tr>
-              <td>Celda 11</td>
-              <td>Celda 12</td>
+              <td>Sessió 7</td>
+              <td>[Features] [Search] [Classification]</td>
           </tr>
           <tr>
-              <td>Celda 13</td>
-              <td>Celda 14</td>
+              <td>Exam</td>
+              <td>[Features] [Search] [Classification]</td>
           </tr>
         </table>
     </body>
