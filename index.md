@@ -16,7 +16,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
 * SERGI NAVARRO 
 * ADRIÀ MÁRQUEZ
 
-<table border="3px"> 
+<table> 
         <thead>
         <tr>
               <th BGCOLOR="#00FFFF">Progress Report (Slides)</th>
