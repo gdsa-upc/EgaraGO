@@ -1,4 +1,4 @@
-# EgaraGO
+# <font face="Comic Sans MS"> EgaraGO</font>
 ## Projecte GDSA
 
 Benvinguts a la pàgina web del nostre projecte !
