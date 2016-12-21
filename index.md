@@ -9,8 +9,6 @@ Aquí trobareu informació sobre el seu desenvolupament.
 ***
 
 
-* [Informe Setmanal 5] (https://docs.google.com/presentation/d/1fBsOT1efNTmQegLOExFy2-xjiymivh_vvsCnBiclJPw/edit#slide=id.g1a029ee159_2_22)
-
 [Base de dades](https://drive.google.com/file/d/0Byn5dvrToz7gRktaQUUyMVYtUmM/view)
 
 ### **EQUIP** 
