@@ -7,7 +7,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
 ***
 
 ***  
-<img src="https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-26.png">
+<img src="https://upload.wikimedia.org/wikipedia/ca/thumb/b/b5/Logo_upc.svg/1024px-Logo_upc.svg.png">
 
 [Base de dades](https://drive.google.com/file/d/0Byn5dvrToz7gRktaQUUyMVYtUmM/view)
 
