@@ -7,7 +7,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
 ***
 
 ***  
-
+<img src="https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-26.png">
 
 [Base de dades](https://drive.google.com/file/d/0Byn5dvrToz7gRktaQUUyMVYtUmM/view)
 
