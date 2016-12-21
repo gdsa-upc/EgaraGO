@@ -53,4 +53,4 @@ En aquest cas busquem imatges del Castell Cartoixa de Terrassa. La primera imatg
 ### El resultat del nostre programa en aquest moment es un Mean Avarage Precision de 0.245. 
 Segons la imatge, el resultat és diferent. Podem clasificar-los en la següent gràfica per poder obtenir una millor visualització segons el tipus d'imatge. 
 
-![foto]()
+![foto](https://docs.google.com/spreadsheets/d/1OnbUrFNhETZjiK-OAHjWkv1bwQO96-jM7g7kfyJuSY4/pubhtml)
