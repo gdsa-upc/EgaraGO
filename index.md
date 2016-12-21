@@ -19,8 +19,8 @@ Aquí trobareu informació sobre el seu desenvolupament.
 <table> 
         <thead>
         <tr>
-              <th BGCOLOR="#00FFFF">Progress Report (Slides)</th>
-              <th BGCOLOR="#00FFFF">Demo ( Notebook )</th>
+              <th BGCOLOR="#01DFA5">Progress Report (Slides)</th>
+              <th BGCOLOR="#01DFA5">Demo ( Notebook )</th>
            </tr>
            </thead>
            <tbody >
