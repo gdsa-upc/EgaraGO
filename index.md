@@ -6,7 +6,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
 
 ***
 
-***
+***  
 
 
 [Base de dades](https://drive.google.com/file/d/0Byn5dvrToz7gRktaQUUyMVYtUmM/view)
@@ -22,11 +22,11 @@ Aquí trobareu informació sobre el seu desenvolupament.
               <td>Demo ( Notebook )</td>
            </tr>
            <tr>
-              <td> <a href="https://docs.google.com/presentation/d/1FElw3wB09kewor5mdKbvPPm-bbtXHXuGJ7aZfIRPLeA/edit#slide=id.g19dadb106c_0_59" > Sessio 3</a> </td>
+              <td> <a href=" https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 3</a> </td>
               <td> Feature extractor</td>
           </tr>
           <tr>
-              <td><a href="https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 4</a></td>
+              <td><a href="https://docs.google.com/presentation/d/1FElw3wB09kewor5mdKbvPPm-bbtXHXuGJ7aZfIRPLeA/edit#slide=id.g19dadb106c_0_59" > Sessio 4</a></td>
               <td>Random system</td>
           </tr>
           <tr>
