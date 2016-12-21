@@ -16,38 +16,41 @@ Aquí trobareu informació sobre el seu desenvolupament.
 * SERGI NAVARRO 
 * ADRIÀ MÁRQUEZ
 
-<table class="egt">
-
-  <tr>
-    <td>Celda 1</td>
-    <td>Celda 2</td>
-  </tr>
-  <tr>
-    <td>Celda 3</td>
-    <td>Celda 4</td>
-  </tr>
-  <tr>
-    <td>Celda 5</td>
-    <td>Celda 6</td>
-  </tr>
-  <tr>
-    <td>Celda 7</td>
-    <td>Celda 8</td>
-  </tr>
-  <tr>
-    <td>Celda 9</td>
-    <td>Celda 10</td>
-  </tr>
-  <tr>
-    <td>Celda 11</td>
-    <td>Celda 12</td>
-  </tr>
-  <tr>
-    <td>Celda 13</td>
-    <td>Celda 14</td>
-  </tr>
-</table>
-
+<table border="3px"> 
+        <thead>
+        <tr>
+              <th BGCOLOR="#00FFFF">Progress Report (Slides)</th>
+              <th BGCOLOR="#00FFFF">Demo ( Notebook )</th>
+           </tr>
+           </thead>
+           <tbody >
+           <tr>
+              <td> <a href=" https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 3</a> </td>
+              <td> Feature extractor</td>
+          </tr>
+          <tr>
+              <td><a href="https://docs.google.com/presentation/d/1FElw3wB09kewor5mdKbvPPm-bbtXHXuGJ7aZfIRPLeA/edit#slide=id.g19dadb106c_0_59" > Sessio 4</a></td>
+              <td>Random system</td>
+          </tr>
+          <tr>
+              <td><a href="https://docs.google.com/presentation/d/1fBsOT1efNTmQegLOExFy2-xjiymivh_vvsCnBiclJPw/edit#slide=id.g1a029ee159_2_22" > Sessió 5 </a></td>
+              <td>First search engine</td>
+          </tr>
+          <tr>
+              <td>Sessió 6</td>
+              <td>[Search] [Classification]</td>
+          </tr>
+           <tr>
+              <td>Sessió 7</td>
+              <td>[Features] [Search] [Classification]</td>
+          </tr>
+          <tr>
+              <td>Exam</td>
+              <td>[Features] [Search] [Classification]</td>
+          </tr>
+          </tbody>
+        </table>
+   
 
 ### ** Mean Average Precision 0.24622898595 **
 * mercat_independencia <b>0.147625794367</b>
