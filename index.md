@@ -16,11 +16,13 @@ Aquí trobareu informació sobre el seu desenvolupament.
 * SERGI NAVARRO 
 * ADRIÀ MÁRQUEZ
 
-  <table border="2px"> 
-           <tr>
+  <table border="3px"> 
+        <thead style="background: rgba(128, 255, 0, 0.3); border: 1px solid rgba(100, 200, 0, 0.3);">
+        <tr>
               <th>Progress Report (Slides)</th>
               <th>Demo ( Notebook )</th>
            </tr>
+           </thead>
            <tr>
               <td> <a href=" https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 3</a> </td>
               <td> Feature extractor</td>
