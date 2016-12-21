@@ -51,7 +51,7 @@ Com tres estudiants del grau d'Enginyeria de Sistemes Audiovisuals a la Universi
 * ADRIÀ MÁRQUEZ
 
 
-### **QUÈ ÉS EgaraGo ? **
+### **Què És EgaraGo?**
 
 EgaraGo és un projecte basat en un sistema de reconeixement d'imatge que es troba actualment en fase de desenvolupament.
 Per ara tenim implementat un ranking. Funciona, però necessita millorar . 
@@ -62,7 +62,7 @@ Resultats de la primera prova del ranking :
 En aquest cas busquem imatges del Castell Cartoixa de Terrassa. La primera imatge, amb un requadre blau, és la imatge que passem al sistema per tal que aquest ens retorni aquelles imatges on detecta el castell. Podem veure que les 4 primeres imatges les retorna com bones de forma correcta. 
 
 
-### ** Mean Average Precision 0.24622898595 **
+### **Mean Average Precision 0.24622898595**
 * mercat_independencia <b>0.147625794367</b>
 * societat_general <b>0.217589438011</b>
 * farmacia_albinyana <b>0.390639615042</b>
