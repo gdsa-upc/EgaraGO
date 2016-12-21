@@ -68,4 +68,4 @@ Aquí trobareu informació sobre el seu desenvolupament.
 
 ***
 Resultats de la primera prova del ranking :
-![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-37-16.png?raw=true WIDTH=178 HEIGHT=180 ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-26.png?raw=true WIDTH=178 HEIGHT=180 ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-32.png?raw=true WIDTH=178 HEIGHT=180 ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-36.png?raw=true WIDTH=178 HEIGHT=180 )
+![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-37-16.png?raw=true  ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-26.png?raw=true ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-32.png?raw=true ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-36.png?raw=true )
