@@ -1,16 +1,12 @@
 # EgaraGO
 ## Projecte GDSA
 
-Benvinguts a la pàgina web del nostre projecte!
+Benvinguts a la pàgina web del nostre projecte !
 Aquí trobareu informació sobre el seu desenvolupament.
 
 ***
 
 ***  
-<img src="https://upload.wikimedia.org/wikipedia/ca/thumb/b/b5/Logo_upc.svg/1024px-Logo_upc.svg.png" WIDTH=178 HEIGHT=180 >
-
-[Base de dades](https://drive.google.com/file/d/0Byn5dvrToz7gRktaQUUyMVYtUmM/view)
-
 
 <table> 
         <thead>
@@ -48,9 +44,23 @@ Aquí trobareu informació sobre el seu desenvolupament.
         </table>
    
 ### **EQUIP** 
+Com tres estudiants del grau d'Enginyeria de Sistemes Audiovisuals a la Universitat Politècnica de Catalunya :
+
 * PABLO LÓPEZ 
 * SERGI NAVARRO 
 * ADRIÀ MÁRQUEZ
+
+
+### **QUÈ ÉS EgaraGo ? **
+
+EgaraGo és un projecte basat en un sistema de reconeixement d'imatge que es troba actualment en fase de desenvolupament.
+Per ara tenim implementat un ranking. Funciona, però necessita millorar . 
+
+Resultats de la primera prova del ranking :
+![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-37-16.png?raw=true)
+
+En aquest cas busquem imatges del Castell Cartoixa de Terrassa. La primera imatge, amb un requadre blau, és la imatge que passem al sistema per tal que aquest ens retorni aquelles imatges on detecta el castell. Podem veure que les 4 primeres imatges les retorna com bones de forma correcta. 
+
 
 ### ** Mean Average Precision 0.24622898595 **
 * mercat_independencia <b>0.147625794367</b>
@@ -65,7 +75,3 @@ Aquí trobareu informació sobre el seu desenvolupament.
 * catedral <b>0.17554959138</b>
 * teatre_principal <b>0.432447571751</b>
 * estacio_nord <b>0.108077811395</b>
-
-***
-Resultats de la primera prova del ranking :
-![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-37-16.png?raw=true  ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-26.png?raw=true ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-32.png?raw=true ) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-36.png?raw=true )
