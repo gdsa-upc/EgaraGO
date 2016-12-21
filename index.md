@@ -19,11 +19,11 @@ Aquí trobareu informació sobre el seu desenvolupament.
   <table border="3px"> 
         <thead>
         <tr>
-              <th>Progress Report (Slides)</th>
-              <th>Demo ( Notebook )</th>
+              <th colspan="2">Progress Report (Slides)</th>
+              <th colspan="2">Demo ( Notebook )</th>
            </tr>
            </thead>
-           <tbody style="background: rgba(128, 255, 0, 0.3); border: 1px solid rgba(100, 200, 0, 0.3);">
+           <tbody >
            <tr>
               <td> <a href=" https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 3</a> </td>
               <td> Feature extractor</td>
