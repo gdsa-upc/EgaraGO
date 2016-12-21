@@ -17,7 +17,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
            </thead>
            <tbody >
            <tr>
-              <td> <a href=" https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 3</a> </td>
+              <td><a href="https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 3</a> </td>
               <td> <a href= "https://github.com/gdsa-upc/EgaraGO/blob/master/Sessio3/PrimerScript.ipynb2"> Feature extractor</a> </td>
           </tr>
           <tr>
