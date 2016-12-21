@@ -7,7 +7,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
 ***
 
 ***  
-<img src="https://upload.wikimedia.org/wikipedia/ca/thumb/b/b5/Logo_upc.svg/1024px-Logo_upc.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/ca/thumb/b/b5/Logo_upc.svg/1024px-Logo_upc.svg.png" WIDTH=178 HEIGHT=180 >
 
 [Base de dades](https://drive.google.com/file/d/0Byn5dvrToz7gRktaQUUyMVYtUmM/view)
 
