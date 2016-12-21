@@ -32,7 +32,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
         </table>
    
 ### **EQUIP** 
-Com tres estudiants del grau d'Enginyeria de Sistemes Audiovisuals a la Universitat Politècnica de Catalunya :
+Som tres estudiants del grau d'Enginyeria de Sistemes Audiovisuals a la Universitat Politècnica de Catalunya :
 
 * PABLO LÓPEZ 
 * SERGI NAVARRO 
