@@ -11,10 +11,6 @@ Aquí trobareu informació sobre el seu desenvolupament.
 
 [Base de dades](https://drive.google.com/file/d/0Byn5dvrToz7gRktaQUUyMVYtUmM/view)
 
-### **EQUIP** 
-* PABLO LÓPEZ 
-* SERGI NAVARRO 
-* ADRIÀ MÁRQUEZ
 
 <table> 
         <thead>
@@ -51,6 +47,10 @@ Aquí trobareu informació sobre el seu desenvolupament.
           </tbody>
         </table>
    
+### **EQUIP** 
+* PABLO LÓPEZ 
+* SERGI NAVARRO 
+* ADRIÀ MÁRQUEZ
 
 ### ** Mean Average Precision 0.24622898595 **
 * mercat_independencia <b>0.147625794367</b>
@@ -68,4 +68,4 @@ Aquí trobareu informació sobre el seu desenvolupament.
 
 ***
 Resultats de la primera prova del ranking :
-![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-37-16.png?raw=true) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-26.png?raw=true) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-32.png?raw=true) ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-44-36.png?raw=true)
+<IMG SRC="https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-37-16.png" WIDTH=178 HEIGHT=180 >
