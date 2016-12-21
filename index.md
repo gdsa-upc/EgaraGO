@@ -17,15 +17,34 @@ Aquí trobareu informació sobre el seu desenvolupament.
 * ADRIÀ MÁRQUEZ
 
 <table class="egt">
+
   <tr>
     <td>Celda 1</td>
     <td>Celda 2</td>
-    <td>Celda 3</td>
   </tr>
   <tr>
+    <td>Celda 3</td>
     <td>Celda 4</td>
+  </tr>
+  <tr>
     <td>Celda 5</td>
     <td>Celda 6</td>
+  </tr>
+  <tr>
+    <td>Celda 7</td>
+    <td>Celda 8</td>
+  </tr>
+  <tr>
+    <td>Celda 9</td>
+    <td>Celda 10</td>
+  </tr>
+  <tr>
+    <td>Celda 11</td>
+    <td>Celda 12</td>
+  </tr>
+  <tr>
+    <td>Celda 13</td>
+    <td>Celda 14</td>
   </tr>
 </table>
 
