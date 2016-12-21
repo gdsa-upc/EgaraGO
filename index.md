@@ -28,18 +28,6 @@ Aquí trobareu informació sobre el seu desenvolupament.
               <td><a href="https://docs.google.com/presentation/d/1fBsOT1efNTmQegLOExFy2-xjiymivh_vvsCnBiclJPw/edit#slide=id.g1a029ee159_2_22" > Sessió 5 </a></td>
               <td> <a href="https://github.com/gdsa-upc/EgaraGO/blob/master/Sessio5/sesion5.ipynb">First search engine</a></td>
           </tr>
-          <tr>
-              <td>Sessió 6</td>
-              <td>[Search] [Classification]</td>
-          </tr>
-           <tr>
-              <td>Sessió 7</td>
-              <td>[Features] [Search] [Classification]</td>
-          </tr>
-          <tr>
-              <td>Exam</td>
-              <td>[Features] [Search] [Classification]</td>
-          </tr>
           </tbody>
         </table>
    
@@ -54,7 +42,7 @@ Com tres estudiants del grau d'Enginyeria de Sistemes Audiovisuals a la Universi
 ### **Què És EgaraGo?**
 
 EgaraGo és un projecte basat en un sistema de reconeixement d'imatge que es troba actualment en fase de desenvolupament.
-Per ara tenim implementat un ranking. Funciona, però necessita millorar . 
+Per ara tenim implementat un ranking segons la semblança de la imatge de consulta amb les de la bases de dades. 
 
 Resultats de la primera prova del ranking :
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-09%2011-37-16.png?raw=true)
@@ -62,16 +50,7 @@ Resultats de la primera prova del ranking :
 En aquest cas busquem imatges del Castell Cartoixa de Terrassa. La primera imatge, amb un requadre blau, és la imatge que passem al sistema per tal que aquest ens retorni aquelles imatges on detecta el castell. Podem veure que les 4 primeres imatges les retorna com bones de forma correcta. 
 
 
-### **Mean Average Precision 0.24622898595**
-* mercat_independencia <b>0.147625794367</b>
-* societat_general <b>0.217589438011</b>
-* farmacia_albinyana <b>0.390639615042</b>
-* ajuntament <b>0.703448404277</b>
-* mnactec <b>0.169312572025</b>
-* escola_enginyeria <b>0.227133171637</b>
-* masia_freixa <b>0.0963972037601</b>
-* castell_cartoixa <b>0.19227411655</b>
-* dona_treballadora <b>0.094252541206</b>
-* catedral <b>0.17554959138</b>
-* teatre_principal <b>0.432447571751</b>
-* estacio_nord <b>0.108077811395</b>
+### El resultat del nostre programa en aquest moment es un Mean Avarage Precision de 0.245. 
+Segons la imatge, el resultat és diferent. Podem clasificar-los en la següent gràfica per poder obtenir una millor visualització segons el tipus d'imatge. 
+
+![foto](https://docs.google.com/spreadsheets/d/1OnbUrFNhETZjiK-OAHjWkv1bwQO96-jM7g7kfyJuSY4/edit#gid=5)
