@@ -18,8 +18,8 @@ Aquí trobareu informació sobre el seu desenvolupament.
 
   <table border="2px"> 
            <tr>
-              <td>Progress Report (Slides)</td>
-              <td>Demo ( Notebook )</td>
+              <th>Progress Report (Slides)</th>
+              <th>Demo ( Notebook )</th>
            </tr>
            <tr>
               <td> <a href=" https://docs.google.com/presentation/d/1UeMRaRQHtqzRAGYTKyew4l1ZVFne8FykBzHa77rgHTE/edit#slide=id.p" > Sessio 3</a> </td>
