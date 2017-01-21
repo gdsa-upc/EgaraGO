@@ -32,6 +32,9 @@ Aquí trobareu informació sobre el seu desenvolupament.
               <td><a href="https://docs.google.com/presentation/d/1kPW7dIn1MHWKluWvtV3_aR2NJTlmm2-AdDa4cySGnJ0/edit#slide=id.p" > Sessio 6</a> </td>
               <td> <a href= "https://github.com/gdsa-upc/EgaraGO/blob/master/Sessio6/Ranking.ipynb"> Ranking</a> </td>
           </tr>
+           <tr>
+              <td><a href=" " > Presentació Final</a> </td>
+              </tr>
           </tbody>
         </table>
    
@@ -62,8 +65,12 @@ Segons la imatge, el resultat és diferent. Podem clasificar-los en la següent 
 ### Kaggle 
 Pel que fa la competició a nivell de classe, es porta a terme a travs del Kaggle . 
 Aquest és el resultat de la primera prova amb 11000 clusters i rootsift :
+
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-37-03.png?raw=true)
+
 I aquest el segon, amb 11500 clusters:
+
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-57-19.png?raw=true)
 
-El MAP baixa. Com podem veure a les imatges passa de 0.24 a 0.21
+El MAP baixa. Com podem veure a les imatges passa de 0.24 a 0.21 .
+Tot i no ser el millor resultat no estem decepcionats, ja que supera el MAP dels professors (quan no utilitzen tècniques de deep-learning) .
