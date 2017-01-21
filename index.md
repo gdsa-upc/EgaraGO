@@ -28,6 +28,10 @@ Aquí trobareu informació sobre el seu desenvolupament.
               <td><a href="https://docs.google.com/presentation/d/1fBsOT1efNTmQegLOExFy2-xjiymivh_vvsCnBiclJPw/edit#slide=id.g1a029ee159_2_22" > Sessió 5 </a></td>
               <td> <a href="https://github.com/gdsa-upc/EgaraGO/blob/master/Sessio5/sesion5.ipynb">First search engine</a></td>
           </tr>
+          <tr>
+              <td><a href="https://docs.google.com/presentation/d/1kPW7dIn1MHWKluWvtV3_aR2NJTlmm2-AdDa4cySGnJ0/edit#slide=id.p" > Sessio 6</a> </td>
+              <td> <a href= "https://github.com/gdsa-upc/EgaraGO/blob/master/Sessio6/Ranking.ipynb"> Ranking</a> </td>
+          </tr>
           </tbody>
         </table>
    
