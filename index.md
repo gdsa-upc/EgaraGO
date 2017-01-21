@@ -56,4 +56,10 @@ Segons la imatge, el resultat és diferent. Podem clasificar-los en la següent 
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-21%2023-13-18.png?raw=true)
 
 ### Kaggle 
+Pel que fa la competició a nivell de classe, es porta a terme a travs del Kaggle . 
+Aquest és el resultat de la primera prova amb 11000 clusters i rootsift :
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-37-03.png?raw=true)
+I aquest el segon, amb 11500 clusters:
+![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-57-19.png?raw=true)
+
+El MAP baixa. Com podem veure a les imatges passa de 0.24 a 0.21
