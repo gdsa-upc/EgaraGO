@@ -53,4 +53,7 @@ En aquest cas busquem imatges del Castell Cartoixa de Terrassa. La primera imatg
 ### El Mean Average Precision del nostre programa, actualment , és de 0.245. 
 Segons la imatge, el resultat és diferent. Podem clasificar-los en la següent gràfica per poder obtenir una millor visualització segons el tipus d'imatge. 
 
-![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-21%2023-13-18.png?)
+![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-21%2023-13-18.png?raw=true)
+
+### Kaggle 
+![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-37-03.png?raw=true)
