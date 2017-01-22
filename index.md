@@ -75,6 +75,8 @@ I aquest el segon, amb <strong>11500 clusters</strong>:
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-57-19.png?raw=true)
 
 
+Com no ha millorat el resultat anterior el Kaggle guarda el MAP de la primera prova i descarta aquest. 
+
 
 El tercer intent ha estat realitzat amb <strong>12000 clusters</strong> , cosa que ha millorat substancialment el resultat: 
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-22%2019-27-12.png?raw=true)
