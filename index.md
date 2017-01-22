@@ -1,5 +1,5 @@
 
-<BODY BGCOLOR="#e3f6ce">
+
 <H1>EgaraGO</H1>
 
 Benvinguts a la pàgina web del nostre projecte !
