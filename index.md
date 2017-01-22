@@ -1,4 +1,4 @@
-<font face="Comic Sans MS"> EgaraGO</font>
+<H1>EgaraGO</H1>
 
 Benvinguts a la pàgina web del nostre projecte !
 Aquí trobareu informació sobre el seu desenvolupament.
