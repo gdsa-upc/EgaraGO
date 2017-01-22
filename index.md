@@ -1,5 +1,5 @@
-<BODY>
-<BODY BGCOLOR="red">
+
+<BODY BGCOLOR="green">
 <H1>EgaraGO</H1>
 
 Benvinguts a la pàgina web del nostre projecte !
@@ -85,4 +85,4 @@ El tercer intent ha estat realitzat amb <strong>12000 clusters</strong> , cosa q
 
 
 Com podem veure, arribem gairebé a un <strong>MAP de 0.28 *(0.278)*</strong> , un resultat bastant positiu. 
-</BODY>
+
