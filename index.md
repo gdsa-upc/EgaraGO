@@ -38,8 +38,7 @@ Aquí trobareu informació sobre el seu desenvolupament.
               </tr>
           </tbody>
         </table>
-<BODY>
-<BODY BGCOLOR="#e3f6ce">
+
 ### **EQUIP** 
 Som tres estudiants del grau d'Enginyeria de Sistemes Audiovisuals a la Universitat Politècnica de Catalunya :
 
@@ -86,4 +85,4 @@ El tercer intent ha estat realitzat amb <strong>12000 clusters</strong> , cosa q
 
 
 Com podem veure, arribem gairebé a un <strong>MAP de 0.28 *(0.278)*</strong> , un resultat bastant positiu. 
-</BODY>
+
