@@ -63,16 +63,21 @@ Segons la imatge, el resultat és diferent. Podem clasificar-los en la següent 
 
 
 ### **Kaggle** 
-Pel que fa la competició a nivell de classe, es porta a terme a travs del Kaggle . 
-Aquest és el resultat de la primera prova amb 11000 clusters i rootsift :
+Pel que fa la competició a nivell de classe, es porta a terme a travès del Kaggle . 
+Aquest és el resultat de la primera prova amb <strong>11000 clusters i rootsift</strong> :
 
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-37-03.png?raw=true)
 
-I aquest el segon, amb 11500 clusters:
+
+
+I aquest el segon, amb <strong>11500 clusters</strong>:
 
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-57-19.png?raw=true)
 
-El tercer intent ha estat realitzat amb 12000 clusters , cosa que ha millorat substancialment el resultat: 
+
+
+El tercer intent ha estat realitzat amb <strong>12000 clusters</strong> , cosa que ha millorat substancialment el resultat: 
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-22%2019-27-12.png?raw=true)
 
-Com podem veure, arribem gairebé a un MAP de 0.28 *(0.278)* , un resultat bastant positiu. 
+
+Com podem veure, arribem gairebé a un <strong>MAP de 0.28 *(0.278)*</strong> , un resultat bastant positiu. 
