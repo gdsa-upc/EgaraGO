@@ -1,5 +1,5 @@
 <font face="Comic Sans MS"> EgaraGO</font>
-## Projecte GDSA
+### *Projecte GDSA*
 
 Benvinguts a la pàgina web del nostre projecte !
 Aquí trobareu informació sobre el seu desenvolupament.
@@ -48,7 +48,7 @@ Som tres estudiants del grau d'Enginyeria de Sistemes Audiovisuals a la Universi
 
 ### **Què És EgaraGo?**
 
-EgaraGo és un projecte basat en un sistema de reconeixement d'imatge que es troba actualment en fase de desenvolupament.
+<strong>*EgaraGo*</strong> és un projecte basat en un sistema de reconeixement d'imatge que es troba actualment en fase de desenvolupament.
 Per ara tenim implementat un ranking segons la semblança de la imatge de consulta amb les de la bases de dades. 
 
 Resultats de la primera prova del ranking :
@@ -57,12 +57,13 @@ Resultats de la primera prova del ranking :
 En aquest cas busquem imatges del Castell Cartoixa de Terrassa. La primera imatge, amb un requadre blau, és la imatge que passem al sistema per tal que aquest ens retorni aquelles imatges on detecta el castell. Podem veure que les 4 primeres imatges les retorna com bones de forma correcta. 
 
 
-### El Mean Average Precision del nostre programa, actualment , és de 0.245. 
+### **El Mean Average Precision del nostre programa *(a Desembre de 2016)* és de 0.245.** 
 Segons la imatge, el resultat és diferent. Podem clasificar-los en la següent gràfica per poder obtenir una millor visualització segons el tipus d'imatge. 
 
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2016-12-21%2023-13-18.png?raw=true)
 
-### Kaggle 
+
+### **Kaggle** 
 Pel que fa la competició a nivell de classe, es porta a terme a travs del Kaggle . 
 Aquest és el resultat de la primera prova amb 11000 clusters i rootsift :
 
@@ -72,5 +73,7 @@ I aquest el segon, amb 11500 clusters:
 
 ![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-21%2022-57-19.png?raw=true)
 
-El MAP baixa. Com podem veure a les imatges passa de 0.24 a 0.21 .
-Tot i no ser el millor resultat no estem decepcionats, ja que supera el MAP dels professors (quan no utilitzen tècniques de deep-learning) .
+El tercer intent ha estat realitzat amb 12000 clusters , cosa que ha millorat substancialment el resultat: 
+![foto](https://github.com/gdsa-upc/EgaraGO/blob/gh-pages/images/Pantallazo-2017-01-22%2019-27-12.png?raw=true)
+
+Com podem veure, arribem gairebé a un MAP de 0.28 *(0.278)* , un resultat bastant positiu. 
