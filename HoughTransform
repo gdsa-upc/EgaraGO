@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('12487-11017-3187.jpg')
+img = cv2.imread('12487-11017-3187.jpg') 
 edges = cv2.Canny(img,50,150,apertureSize = 3)
 minLineLength = 1000
 maxLineGap = 1
